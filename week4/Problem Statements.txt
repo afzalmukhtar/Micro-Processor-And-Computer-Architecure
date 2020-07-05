@@ -1,0 +1,25 @@
+1. ALP to add 64bit numbers
+
+2. ALP to find smallest number in an array
+
+3. ALP to find factorial using subroutine
+
+4. c[k] = a[i] * b[j]
+
+5. Write a function for MUL(add(a, b), c) => [(a+b)*c]
+
+6. Find 1's compliment of a number
+
+7. Scan a 32 bit number to find if it is negative
+
+8. Add a series of 32 bit numbers using table address
+
+9. Find the number of zeros, positive and negetive numbers in a given array
+
+10. Count number of 1's and 0's in a given 32 bit number
+
+11. b = a[i][j]
+
+12. sum += a[i][j]
+
+13. c[i][j] = a[i][j] + b[i][j]

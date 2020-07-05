@@ -1,0 +1,9 @@
+1. Add array of 10 numbers taking data from memory location stored as byte data (use .byte to store the data instead of .word)
+
+2. Linear Search,Check whether the given number is present in array, if found move it’s position to R7 else move -1 to R6 (If the number not found)
+
+3. Generate Fibonacci Series
+
+4. a) Perform convolution using MUL 
+   b) Perform convolution using MLA
+   Convolution: Sum of product of respective numbers of locA and locB

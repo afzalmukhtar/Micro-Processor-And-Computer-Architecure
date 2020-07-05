@@ -1,0 +1,16 @@
+
+1. To find the factorial of a number stored in R0. Store the value in R1.
+
+2. Based on the value of the number in R0 :
+	;Store 1 in R1 if R0 is zero
+	;Store 2 in R1 if R0 is positive
+	;Store 3 in R1 if R0 is negative
+
+3. Add two numbers loaded from memory and store the result in memory.
+
+4. To copy n numbers from Location A to Location B.
+
+5. Find the GCD of given numbers.
+
+6. Add an array of numbers from memory.
+ 

@@ -1,0 +1,9 @@
+1. Find length of a string
+
+2. Copy String from one address to another
+
+3. Search for a character in a string
+
+4. Binary search
+
+5. 
